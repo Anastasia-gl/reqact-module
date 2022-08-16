@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Peeling Ordinary",
+    "price": 10.99,
+    "imgUrl": "https://cosibella.com.ua/rus_pm_The-Ordinary-AHA-30-BHA-2-Peeling-Solution-KISLOTNYI-PILING-DLIA-LICA-30-ml-780_2.webp"
+  },
+  {
+    "id": 2,
+    "name": "Cream Orinary",
+    "price": 1199,
+    "imgUrl": "https://cosibella.com.ua/ukr_pl_The-Ordinary-Natural-Moisturizing-Factors-HA-KREM-ZVOLOZHUIUCHII-Z-GIALURONOVOIU-KISLOTOIU-30-ml-741_2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Pixi",
+    "price": 1.05,
+    "imgUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pix/pix82102/l/26.jpg"
+  }
+]
